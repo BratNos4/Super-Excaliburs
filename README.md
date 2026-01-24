@@ -1,5 +1,5 @@
-**Excalibur Mod for Minecraft.**
-** Download at https://modrinth.com/mod/super-excaliburs**
+**Excalibur Mod for Minecraft**
+ Download at https://modrinth.com/mod/super-excaliburs
 
 **Excalibur Mod** adds two legendary swords to Minecraft: **Excalibur** and **Netherite Excalibur**.
 
