@@ -8,9 +8,9 @@
 
 **Mod versions:**
 
-* **Fabric:** 1.21.8 – 1.21.11
-* **NeoForge:** 1.21.1 – 1.21.11
-* **Forge:** 1.20.1
+* **Fabric:** 1.21.8 (Planned versions: 1.20.1)
+* **NeoForge:** 1.21.1 (Future versions: 1.21.4, 1.20.6, 1.20.4)
+* **Forge:** 1.20.1 (Future versions: 1.19.4, 1.19.2, 1.18.2, 1.17.1, 1.16.5)
 
 **Craftings**
 
