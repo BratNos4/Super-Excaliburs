@@ -1,3 +1,6 @@
+## ⚠️ WARNING!
+You are looking at **Developer Version** of Super Excaliburs mod. If you want to play casually without the newest unreleased features **download this mod** [**here**](https://modrinth.com/mod/super-excaliburs)**.** **Expect many bugs and unfinished features.**
+
 # ⚔️ Super Excaliburs Mod
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/super-excaliburs?logo=modrinth&logoColor=white&label=Downloads&color=1bd96a)](https://modrinth.com/mod/super-excaliburs)
